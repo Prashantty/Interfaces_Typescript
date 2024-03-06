@@ -1,0 +1,9 @@
+# Dependency directories
+/node_modules
+
+# Ignore 
+/package-lock.json
+/package.json
+
+#need to Transpile
+/dist 
