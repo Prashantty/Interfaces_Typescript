@@ -22,4 +22,4 @@ If you're using TypeScript and need to transpile your code, you'll likely genera
 1. Install TypeScript:
    ```bash
    npm install -g typescript
-   npm --init 
+   tsc --init 
